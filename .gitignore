@@ -5,6 +5,7 @@ rokit.toml
 selene.toml
 client
 server
+Packages
 
 # Roblox Studio lock files
 /*.rbxlx.lock
