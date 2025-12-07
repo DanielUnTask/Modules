@@ -7,7 +7,7 @@
       "Modules": {
         "$path": "Modules"
       },
-      "rbxs_include": {
+      "Packages": {
         "$path": "Packages"
       }
     }
