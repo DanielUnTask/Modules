@@ -3,8 +3,6 @@ sourcemap.json
 default.project.json
 rokit.toml
 selene.toml
-client
-server
 Packages
 
 # Roblox Studio lock files
