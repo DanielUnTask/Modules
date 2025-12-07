@@ -1,0 +1,15 @@
+{
+  "name": "Modules",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Modules": {
+        "$path": "Modules"
+      },
+      "rbxs_include": {
+        "$path": "Packages"
+      }
+    }
+  }
+}
